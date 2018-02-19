@@ -15,24 +15,27 @@
     <string name="question_after_yes_title">Choose the area of your dream job</string>
     <string name="question_after_no_title">what are you interested in?</string>
     <string-array name="job_array">
-        <item>Mercury</item>
-        <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
+        <item>Teacher</item>
+        <item>Scientist</item>
+        <item>Doctor</item>
+        <item>Lawyer</item>
+        <item>Artist</item>
+        <item>Designer</item>
+        <item>Pilot</item>
+        <item>Politician</item>
+        <item>Police</item>
+        <item>Cook</item>
     </string-array>
     <string-array name="interest_array">
-        <item>Mercury</item>
-        <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
+        <item>Sports</item>
+        <item>Video Games</item>
+        <item>Social Activity</item>
+        <item>Music</item>
+        <item>Reading</item>
+        <item>Cooking</item>
+        <item>Traveling</item>
+        <item>Eating</item>
     </string-array>
     <string name="result_title">This is the most suitable major for you:</string>
+    <string name="result_res"></string>
 </resources>
