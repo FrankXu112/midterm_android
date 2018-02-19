@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Education</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_main">How to choose your university major?</string>
+    <string name="button_main">Start Here!</string>
+    <string name="question_job_title">Do you have an idea for future career direction?</string>
+    <string name="button_yes">YES!</string>
+    <string name="button_no">NO!</string>
+    <string name="des_light">light bulb image</string>
+    <string name="des_ques">question mark image</string>
+    <string name="left_arrow">left arrow image</string>
+    <string name="right_arrow">right arrow image</string>
+    <string name="question_after_yes_title">Choose the area of your dream job</string>
+    <string name="question_after_no_title">what are you interested in?</string>
+    <string-array name="job_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="interest_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="result_title">This is the most suitable major for you:</string>
+</resources>
